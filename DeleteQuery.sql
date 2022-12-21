@@ -1,0 +1,24 @@
+USE ProgrammerService
+
+DELETE Accounts
+DELETE Seriess
+DELETE Seriess_Genres
+DELETE Seriess_Sertifications
+DELETE Programmers
+DELETE Programmers_Seriess
+DELETE Programmers_Programms
+DELETE Genres
+DELETE Groups
+DELETE Groups_Seriess
+DELETE Groups_Programmers
+DELETE Groups_Programms
+DELETE Logs
+DELETE Permission
+DELETE Related_accounts
+DELETE Roles
+DELETE Roles_Permissions
+DELETE Sertifications
+DELETE Programms
+DELETE Programms_Genres
+DELETE Programms_Sertifications
+DELETE Visitors
